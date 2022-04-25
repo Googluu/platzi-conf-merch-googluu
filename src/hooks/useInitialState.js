@@ -7,22 +7,29 @@ const useInitialState = () => {
     const addToCart = payload => {
         setState({
             ...state,
-            cart: [...state.cart, payload]
+            cart: [...state.cart, payload],
         });
     }
 
     const removeFromCart = payload => {
         setState({
             ...state,
-            cart: state.cart.filter(items => items.id !== payload.id)
+            cart: state.cart.filter(items => items.id !== payload.id),
         });
-    };
+    }
 
-    return (
+    const addToBuyer = payload => {
+        setState({
+            buyer: [...state.buyer, payload]
+        });
+    }
+
+    return {
         addToCart,
         removeFromCart,
-        state
-    );
+        addToBuyer,
+        state,
+    };
 };
 
 export default useInitialState;

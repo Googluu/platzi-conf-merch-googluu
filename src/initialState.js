@@ -1,6 +1,7 @@
 export default {
-    cart: [],
-    products: [
+cart: [],
+buyer: [],
+products: [
 {
         'id': '1',
         'image': 'https://arepa.s3.amazonaws.com/camiseta.png',
@@ -21,7 +22,7 @@ export default {
         'title': 'Pin',
         'price': 4,
         'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    },
+},
 {
         'id': '5',
         'image': 'https://arepa.s3.amazonaws.com/stickers1.png',
@@ -43,5 +44,5 @@ export default {
         'price': 35,
         'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
 },
-    ],
+],
 };
