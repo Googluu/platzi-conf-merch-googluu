@@ -14,8 +14,11 @@
   "author": "Sneyder J. Huertas Rodríguez <sneyder.h.rodriguez@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@react-google-maps/api": "^2.10.0",
+    "axios": "^0.27.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-paypal-button": "^4.1.1",
     "react-router-dom": "^6.3.0",
     "simple-git-hooks": "^2.7.0"
   },
