@@ -1,1 +1,1 @@
-# platzi-conf-merch-googluu
+# platzi-conf-merch
