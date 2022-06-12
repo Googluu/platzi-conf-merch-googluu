@@ -1,1 +1,1 @@
-# platzi-conf-merch
+# platzi-conf-merch-gh
