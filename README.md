@@ -1,2 +1,2 @@
-# platzi-conf-merch
+# platzi-merch
 
