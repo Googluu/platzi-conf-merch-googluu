@@ -1,2 +1,2 @@
-# platzi-merch
+# platzi-merch-techin
 
