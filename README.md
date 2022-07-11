@@ -1,2 +1,2 @@
-# platzi-merch-techin
+# ♥️merch-techin
 
