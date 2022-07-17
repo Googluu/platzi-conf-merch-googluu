@@ -1,2 +1,2 @@
-# ♥️merch-techin🍃
+# ♥️merch-techin
 
