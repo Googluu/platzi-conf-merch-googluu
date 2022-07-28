@@ -1,2 +1,2 @@
-# merch\/Techin
+# Store Techin
 
