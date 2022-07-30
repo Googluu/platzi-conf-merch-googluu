@@ -1,3 +1,4 @@
-# Store Techin ![NarutoAnimeGIF](https://user-images.githubusercontent.com/99292913/181749221-e40a45c1-ff02-4454-af71-604d0125f125.gif)
+# Store Techin ![MemeMonkeyGIF](https://user-images.githubusercontent.com/99292913/181913899-6527e615-d791-4a8a-aace-d45456be637b.gif)
+
 
 
